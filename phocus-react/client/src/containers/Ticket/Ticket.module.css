@@ -1,0 +1,10 @@
+.Ticket {
+    /* display: flex;
+    justify-content: center;
+    padding-top: 100px;
+    flex-grow: 1;
+    width: 100%; */
+}
+.Ticket div {
+    margin: 0 auto;
+}
