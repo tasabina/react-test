@@ -6,6 +6,7 @@ The result of code challenge. I had to build server side, since I couldn't acces
 <h3>Additional information</h3>
 <hr/>
 <ul>
+  <li>Before start, please run command <strong>npm install</strong> in server and client root</li>
   <li>For run local server, please run <strong>node index.js</strong> in server root</li>
   <li>For run application, please run <strong>yarn start</strong> in client root</li>
   <li>For using remote API<sup>*</sup>, please comment out <strong>line 5 in client/src/axios/axios-api.js</strong> and uncomment API url <strong>in line 4</strong></li>
